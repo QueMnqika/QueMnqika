@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Que
+# 👋 Hi, I'm Que Mnqika
 
 🎓 Aspiring Software & Web Developer  
 🧠 Passionate about building digital solutions for real-world problems  
