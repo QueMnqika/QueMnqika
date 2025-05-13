@@ -20,6 +20,10 @@
 
 ---
 
+### 📈 GitHub Stats
+
+![Que's GitHub stats](https://github-readme-stats.vercel.app/api?username=QueMnqika&show_icons=true&theme=radical)
+
 ### 🔧 Projects
 - 🏥 **Random User Generator** – Generate random users from a public API using Vue.JS [https://github.com/QueMnqika/Vue-user-generator.git]
 - 🎮 **Tic Tac Toe Game** – Classic game built in C#
@@ -28,6 +32,6 @@
 ---
 
 ### 📫 Let's Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🌐 [LinkedIn](https://linkedin.com/in/qaqambile-mnqika)  
 - 📷 Instagram: @que_mnqika
 - 💬 DM me if you need a website or dev help!
