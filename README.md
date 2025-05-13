@@ -25,9 +25,9 @@
 ![Que's GitHub stats](https://github-readme-stats.vercel.app/api?username=QueMnqika&show_icons=true&theme=radical)
 
 ### 🔧 Projects
-- 🏥 **Random User Generator** – Generate random users from a public API using Vue.JS [https://github.com/QueMnqika/Vue-user-generator.git]
+- 🏥 **Random User Generator** – Generate random users from a public API using Vue.JS [https://ugener8.netlify.app/]
 - 🎮 **Tic Tac Toe Game** – Classic game built in C#
-- 📚 **Freshe Cafe** – Built using HTML & CSS only [https://github.com/QueMnqika/Freshe-Cafe.git]
+- 📚 **Freshe Cafe** – Built using HTML & CSS only [https://freshecafe.netlify.app/]
 
 ---
 
